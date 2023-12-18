@@ -1,5 +1,5 @@
 class Solution {
-    public int maxProduct(int[] nums) {
+    public static int maxProduct(int[] nums) {
         int length = nums.length;
         int maxProduct = 0;
         for(int i=0;i<length;i++){
@@ -16,5 +16,9 @@ class Solution {
             }
         }
         return maxProduct;
+    }
+
+    public static void main(String[] args) {
+        
     }
 }
