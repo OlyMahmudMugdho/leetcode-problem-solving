@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution2 {
     public static int maxProduct(int[] nums) {
         int length = nums.length;
         int max = -1;
