@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-
+/*
+* link : https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1
+* */
 public class UnionIntersection {
     public static int doUnion(int a[], int n, int b[], int m)
     {
